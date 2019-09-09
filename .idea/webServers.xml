@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0b5500c-24f9-4440-b91e-cfb6f0becc1e" name="ErrorCorrection" url="http://47.101.38.0">
+        <fileTransfer host="47.101.38.0" port="22" rootFolder="/root/code/python/ErrorCorrectionInChinese" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
